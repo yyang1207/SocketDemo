@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/SocketDemo.Client/obj
+/SocketDemo.Client/bin
+/SocketDemo.Server/obj
+/SocketDemo.Server/bin
+/SocketDemo.Client/Program.cs
